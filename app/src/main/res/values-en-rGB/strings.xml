@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prudential Assignment</string>
+    <string name="title">Historical Mood Index</string>
+    <string name="every_week_score_tip">weekly average mood index</string>
+    <string name="monday">MO</string>
+    <string name="tuesday">TU</string>
+    <string name="wednesday">WE</string>
+    <string name="thursday">TH</string>
+    <string name="friday">FR</string>
+    <string name="saturday">SA</string>
+    <string name="sunday">SU</string>
+</resources>
